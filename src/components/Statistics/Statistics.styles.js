@@ -8,7 +8,7 @@ export const StatisticsWrapper = styled.div`
 `;
 
 export const StatisticItem = styled.p`
-  width: 245px;
+  width: 235px;
   font-size: 16px;
   margin: 5px 0;
   padding: 10px;
